@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ugoArangino/ugoArangino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ugo.  
+I am an European 🇪🇺, a iOS developer 💻 and I love podcasts 🎧.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on internal Apps for an inerational fashion brand.
+- 🌱 I’m currently learning `elixir`
+- 🤔 I’m looking for help with you App.
+- 💬 Ask me about my experince.
+- 📫 How to reach or hire me: contact@arangino.app
+- ⚡ Fun fact: My maxims are honesty, friendliness and directness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Imprint: https://www.ugoarangino.de/impressum/
