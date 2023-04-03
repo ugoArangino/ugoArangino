@@ -3,7 +3,6 @@
 My name is Ugo.  
 I am an European 🇪🇺, a iOS developer 💻 and I love podcasts 🎧.
 
-- 🔭 I’m currently working on internal Apps for an international fashion brand.
 - 👨‍💼 The name of my company is [EV1101](https://www.ev1101.com/contact/)
 - 🤔 I’m looking for help with you App.
 - 💬 Ask me about my experience.
