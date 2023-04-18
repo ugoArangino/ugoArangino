@@ -16,3 +16,6 @@ I am an European 🇪🇺, a iOS developer 💻 and I love podcasts 🎧.
 - [LinkedIn](https://www.linkedin.com/in/ugoarangino/)
 - [Stack Overflow](https://stackoverflow.com/users/3716612/ugo-arangino)
 - [Legal notice and data privacy](https://www.ev1101.com)
+
+---
+![](https://github-readme-stats.vercel.app/api?username=ugoarangino&count_private=true&show_icons=true)
