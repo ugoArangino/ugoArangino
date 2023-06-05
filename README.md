@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Ugo.  
-I am an European 🇪🇺, a iOS developer 💻 and I love podcasts 🎧.
+My name is Ugo. 
+And I am an iOS developer.
 
 - 👨‍💼 The name of my company is [EV1101](https://www.ev1101.com/contact/)
 - 🤔 I’m looking for help with you App.
@@ -16,6 +16,3 @@ I am an European 🇪🇺, a iOS developer 💻 and I love podcasts 🎧.
 - [LinkedIn](https://www.linkedin.com/in/ugoarangino/)
 - [Stack Overflow](https://stackoverflow.com/users/3716612/ugo-arangino)
 - [Legal notice and data privacy](https://www.ev1101.com)
-
----
-![](https://github-readme-stats.vercel.app/api?username=ugoarangino&count_private=true&show_icons=true)
