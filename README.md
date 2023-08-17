@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Ugo.  
-🇪🇺🇩🇪🇮🇹 Düsseldorf
-👨‍💻 iOS Dev DFL Digital Sports
-❤️ podcast addicted
-⚡️ Fun fact: My maxims are honesty, friendliness and directness.
+🇪🇺🇩🇪🇮🇹 Düsseldorf  
+👨‍💻 iOS Dev DFL Digital Sports  
+❤️ podcast addicted  
+⚡️ Fun fact: My maxims are honesty, friendliness and directness.  
 
 ---
 
