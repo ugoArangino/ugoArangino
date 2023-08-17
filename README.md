@@ -6,7 +6,7 @@ My name is Ugo.
 📍 Düsseldorf  
 👨‍💻 iOS Dev @ DFL Digital Sports  
 🎧 podcast addicted  
-⚡️ Fun fact: My maxims are honesty, friendliness and directness.  
+⚡️ My maxims are honesty, friendliness and directness.  
 
 ---
 
