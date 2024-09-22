@@ -11,7 +11,7 @@
 - 👦 Coding since 2004  
 - 💵 Professional developer since 2013
 
-### Side Projects
+#### Hobby Projects
 
 - Gastronomy menu planner (*Elixir/Phoenix*)  
 - 2D game prototype (*Godot/GDScript*)  
