@@ -24,7 +24,8 @@
 - 🌐 [Website](https://www.ugoarangino.de)  
 - 💼 [Xing](https://www.xing.com/profile/Ugo_Arangino/cv)  
 - 💻 [LinkedIn](https://www.linkedin.com/in/ugoarangino/)  
-- 📸 [Public Instagram](https://www.instagram.com/ugo.goes.hausmann/)  
+- 📸 [Public Instagram](https://www.instagram.com/ugo.goes.hausmann/)
+- ✉️ [hello@arangino.app](mailto:hello@arangino.app) 
 - <details>
     <summary>Legal notice</summary>
     
