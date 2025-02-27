@@ -13,7 +13,7 @@
 
 #### Hobby Projects
 
-- Gastronomy menu planner (*Elixir/Phoenix*)  
+- Gastronomy menu planner (*Elixir/Phoenix/SvelteKit*)  
 - 2D game prototype (*Godot/GDScript*)  
 - QR code wallet app (*Swift/SwiftUI*)  
 - Inventory management app (*Swift/SwiftUI*)  
