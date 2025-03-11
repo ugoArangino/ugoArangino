@@ -1,7 +1,7 @@
 **My name is Ugo.**
 
 - 🇪🇺🇩🇪🇮🇹  
-- 📍 Cologne  
+- 📍 Cologne, Germany  
 - 👨‍💻 Senior iOS Developer  
 - 🎧 podcast addicted  
 - ⚡️ My maxims are honesty, friendliness and directness.
@@ -21,20 +21,10 @@
 
 ## Contact
 
-- 🌐 [Website](https://www.ugoarangino.de)  
+- 🌐 [Website](https://www.arangino.app)  
+- 📓 [Blog](https://www.ugoarangino.de)  
 - 💼 [Xing](https://www.xing.com/profile/Ugo_Arangino/cv)  
 - 💻 [LinkedIn](https://www.linkedin.com/in/ugoarangino/)  
 - 📸 [Public Instagram](https://www.instagram.com/ugo.goes.hausmann/)
 - ✉️ [hello@arangino.app](mailto:hello@arangino.app) 
-- <details>
-    <summary>Legal notice</summary>
-    
-  c/o EV1101 Software GmbH  
-  Ugo Arangino  
-  Am Vogelsberg 48  
-  44534 Lünen
-  
-  ✉️ info@ugoarangino.de  
-  ☎️ 0211 97533572
-    
-  </details>
+- 👨‍⚖️ [Legal](https://www.arangino.app/impressum/) 
